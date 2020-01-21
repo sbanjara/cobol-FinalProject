@@ -1,0 +1,264 @@
+
+                                   DR. CHEEB
+          12/06/2019            INVENTORY REPORT        PAGE: 01
+
+  WAREHOUSE: CA20
+
+     VENDOR: DENIO CORP.
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Rosemary Balm    C06  EXTRA LARGE  CREAM    021    $1,259.79
+                      C06  LARGE        CREAM    031    $1,239.69
+                      C06  MEDIUM       CREAM    002      $205.98
+                      C06  BAD-         BAD-     000         $.00
+
+                     PRODUCT: Rosemary Balm TOTAL:      $2,705.46
+
+
+             TOTAL FOR VENDOR: DENIO CORP.              $2,705.46
+
+
+     VENDOR: MADEINHOUSE
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Lavender Bud     O03  EXTRA LARGE  OIL      011      $637.89
+                      O03  LARGE        OIL      005      $109.95
+                      O03  MEDIUM       OIL      014      $139.86
+                      O03  SMALL        OIL      101      $604.99
+                      O03  SAMPLE       OIL      021       $20.79
+
+                     PRODUCT: Lavender Bud  TOTAL:      $1,513.48
+
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Peppermint       O05  EXTRA LARGE  OIL      011      $637.89
+                      O05  LARGE        OIL      005      $109.95
+                      O05  MEDIUM       OIL      014      $139.86
+                      O05  SMALL        OIL      101      $604.99
+                      O05  SAMPLE       OIL      021       $20.79
+
+                     PRODUCT: Peppermint    TOTAL:      $1,513.48
+
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Catnip Oil       O06  EXTRA LARGE  OIL      020    $1,399.80
+                      O06  LARGE        OIL      025    $1,249.75
+                      O06  MEDIUM       OIL      015      $449.85
+                      O06  SMALL        OIL      125    $2,498.75
+                      O06  SAMPLE       OIL      005       $49.95
+
+                     PRODUCT: Catnip Oil    TOTAL:      $5,648.10
+
+
+             TOTAL FOR VENDOR: MADEINHOUSE              $8,675.06
+
+
+     VENDOR: WEST CORP.
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Candy Apple      C07  EXTRA LARGE  CREAM    012      $311.88
+                      C07  LARGE        CREAM    112    $1,790.88
+                      C07  MEDIUM       CREAM    012      $119.88
+                      C07  SMALL        CREAM    212    $1,269.88
+                      C07  SAMPLE       CREAM    012       $11.88
+
+                     PRODUCT: Candy Apple   TOTAL:      $3,504.40
+
+
+             TOTAL FOR VENDOR: WEST CORP.               $3,504.40
+
+          TOTAL FOR WAREHOUSE:CA20                    $14,884.92
+
+
+  WAREHOUSE: NV10
+
+     VENDOR: AMEL LTD.
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Vampire Blood    C08  EXTRA LARGE  CREAM    221   $19,003.79
+                      C08  LARGE        CREAM    021    $1,175.79
+                      C08  MEDIUM       CREAM    081    $2,915.19
+                      C08  SMALL        CREAM    021      $335.79
+                      C08  SAMPLE       CREAM    025      $149.75
+
+                     PRODUCT: Vampire Blood TOTAL:     $23,580.31
+
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Pollys Oil       O02  EXTRA LARGE  OIL      025    $3,999.75
+                      O02  LARGE        OIL      003      $479.97
+                      O02  MEDIUM       OIL      010    $1,599.90
+                      O02  SMALL        OIL      010    $1,699.90
+                      O02  SAMPLE       OIL      020    $2,599.80
+
+                     PRODUCT: Pollys Oil    TOTAL:     $10,379.32
+
+
+             TOTAL FOR VENDOR: AMEL LTD.               $33,959.63
+
+
+     VENDOR: MADEINHOUSE
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Cheebs Magic     C05  EXTRA LARGE  CREAM    015    $2,039.85
+                      C05  LARGE        CREAM    015    $1,439.85
+                      C05  MEDIUM       CREAM    015      $839.85
+                      C05  SMALL        CREAM    010      $359.90
+                      C05  SAMPLE       CREAM    215      $212.85
+
+                     PRODUCT: Cheebs Magic  TOTAL:      $4,892.30
+
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Lavender Bud     O03  EXTRA LARGE  OIL      011      $637.89
+                      O03  LARGE        OIL      005      $109.95
+                      O03  MEDIUM       OIL      014      $139.86
+                      O03  SMALL        OIL      101      $604.99
+                      O03  SAMPLE       OIL      021       $20.79
+
+                     PRODUCT: Lavender Bud  TOTAL:      $1,513.48
+
+
+             TOTAL FOR VENDOR: MADEINHOUSE              $6,405.78
+
+
+     VENDOR: WEST CORP.
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Lucious Lemon    C09  EXTRA LARGE  CREAM    003      $377.97
+                      C09  LARGE        CREAM    033    $3,167.67
+                      C09  MEDIUM       CREAM    003      $137.97
+                      C09  SMALL        CREAM    003       $77.97
+                      C09  SAMPLE       CREAM    023      $206.77
+
+                     PRODUCT: Lucious Lemon TOTAL:      $3,968.35
+
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Orange Magic     O01  EXTRA LARGE  OIL      005      $429.95
+                      O01  LARGE        OIL      002      $111.98
+                      O01  MEDIUM       OIL      124    $4,462.76
+                      O01  SMALL        OIL      035      $559.65
+                      O01  SAMPLE       OIL      015       $89.85
+
+                     PRODUCT: Orange Magic  TOTAL:      $5,654.19
+
+
+             TOTAL FOR VENDOR: WEST CORP.               $9,622.54
+
+          TOTAL FOR WAREHOUSE:NV10                    $49,987.95
+
+
+  WAREHOUSE: WA30
+
+     VENDOR: MADEINHOUSE
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Cheebs Magic     C05  EXTRA LARGE  CREAM    015    $2,039.85
+                      C05  LARGE        CREAM    015    $1,439.85
+                      C05  MEDIUM       CREAM    015      $839.85
+                      C05  SMALL        CREAM    010      $359.90
+                      C05  SAMPLE       CREAM    215      $212.85
+
+                     PRODUCT: Cheebs Magic  TOTAL:      $4,892.30
+
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Lavender Bud     O03  EXTRA LARGE  OIL      011      $637.89
+                      O03  LARGE        OIL      005      $109.95
+                      O03  MEDIUM       OIL      014      $139.86
+                      O03  SMALL        OIL      101      $604.99
+                      O03  SAMPLE       OIL      021       $20.79
+
+                     PRODUCT: Lavender Bud  TOTAL:      $1,513.48
+
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Catnip Oil       O06  EXTRA LARGE  OIL      020    $1,399.80
+                      O06  LARGE        OIL      025    $1,249.75
+                      O06  MEDIUM       OIL      015      $449.85
+                      O06  SMALL        OIL      125    $2,498.75
+                      O06  SAMPLE       OIL      005       $49.95
+
+                     PRODUCT: Catnip Oil    TOTAL:      $5,648.10
+
+
+             TOTAL FOR VENDOR: MADEINHOUSE             $12,053.88
+
+
+     VENDOR: VISSON CORP.
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     RoseMilk Balm    C02  EXTRA LARGE  CREAM    221   $19,003.79
+                      C02  LARGE        CREAM    021    $1,175.79
+                      C02  MEDIUM       CREAM    081    $2,915.19
+                      C02  SMALL        CREAM    021      $335.79
+                      C02  SAMPLE       CREAM    025      $149.75
+
+                     PRODUCT: RoseMilk Balm TOTAL:     $23,580.31
+
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Fairy DewDrop    O04  EXTRA LARGE  OIL      005      $429.95
+                      O04  LARGE        OIL      002      $111.98
+                      O04  MEDIUM       OIL      124    $4,462.76
+                      O04  SMALL        OIL      035      $559.65
+                      O04  SAMPLE       OIL      015       $89.85
+
+                     PRODUCT: Fairy DewDrop TOTAL:      $5,654.19
+
+
+             TOTAL FOR VENDOR: VISSON CORP.            $29,234.50
+
+
+     VENDOR: WEST CORP.
+
+       PRODUCT       PROD    PRODUCT    PROD    IN       TOTAL
+         NAME         ID      SIZE      TYPE   STOCK     COST
+
+     Elf Jam          C04  EXTRA LARGE  CREAM    003      $377.97
+                      C04  LARGE        CREAM    033    $3,167.67
+                      C04  MEDIUM       CREAM    003      $137.97
+                      C04  SMALL        CREAM    003       $77.97
+                      C04  SAMPLE       CREAM    023      $206.77
+
+                     PRODUCT: Elf Jam       TOTAL:      $3,968.35
+
+
+             TOTAL FOR VENDOR: WEST CORP.               $3,968.35
+
+          TOTAL FOR WAREHOUSE:WA30                    $45,256.73
+
+                      GRAND TOTAL COST:               $110,129.60
